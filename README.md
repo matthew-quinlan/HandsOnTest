@@ -19,3 +19,4 @@ if dependencies are already installed, you can run Setup.ps1 to launch the Hands
 
 * Utilize repository pattern
 * Utilize interfaces in models
+* Fix the DAO models should be DTO 
